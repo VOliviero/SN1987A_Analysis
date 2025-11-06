@@ -10,7 +10,8 @@ Below is a brief description of the main scripts included:
 
 
 
-After that, we provide the tables corresponding to the profile likelihood of $t_{k}-t_{i}$ and $t_{b}-t_{i}$, shown in Fig. 1, as well as the tables for the likelihood functions of $T_{K}$ and $T_{B}$, shown in Fig. 2.
+After that, we provide the tables corresponding to the profile likelihood of $t_{k}-t_{i}$ and $t_{b}-t_{i}$, shown in Fig. 1, as well as the tables for the likelihood functions of $T_{K}$ and $T_{B}$, shown in Fig. 2, which are the absolute time of detection of the first events in Kamiokande-II and Baksan, respectively.
+
 Note that for, $T_{K}$ and $T_{B}$, the x-axis represents the time after midnight, expressed in seconds.
 
 |$t_{k}-t_{i}$| $\Delta\chi^2$ |
