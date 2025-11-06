@@ -4,9 +4,9 @@ This repository collects all the relevant material related to the analysis of th
 
 Below is a brief description of the main scripts included:
 
-	- nome: Mathematica notebook used to construct the likelihood function of our model, which is employed to determine the absolute detection time of the first neutrino for each experiment.
+- nome: Mathematica notebook used to construct the likelihood function of our model, which is employed to determine the absolute detection time of the first neutrino for each experiment.
 
-	- ElasticScattering.ipynb: Jupyter notebook containing all the elements required to produce Fig 3 of the paper.
+- ElasticScattering.ipynb: Jupyter notebook containing all the elements required to produce Fig 3 of the paper.
 
 
 
