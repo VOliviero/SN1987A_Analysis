@@ -1,11 +1,67 @@
-This is a repository where we collect all the relevant stuff about the analysis on the time distribution of the neutrinos data from SN1987A.
-Here we put a brief description about the scripts:
-  - 'nome' is the mathematica notebook used to build up the likelihood of our model used to obtain the absoult time of first neutrino detection for each experiment.
-  - ElasticScattering.ipynb cointains all the ingredients to obtain the plot in Fig. 3
+Repository description
+
+This repository collects all the relevant material related to the analysis of the time distribution of neutrino events from SN1987A.
+
+Below is a brief description of the main scripts included:
+
+	- nome – Mathematica notebook used to construct the likelihood function of our model, which is employed to determine the absolute detection time of the first 			neutrino for each experiment.
+
+	- ElasticScattering.ipynb – Jupyter notebook containing all the elements required to produce Fig 3 of the paper.
 
 
 
-Tabulation
+After that, we provide the tables corresponding to the profile likelihood of $t_{k}-t_{i}$ and $t_{b}-t_{i}$, shown in Fig. 1, as well as the tables for the likelihood functions of $T_{K}$ and $T_{B}$, shown in Fig. 2.
+
+|$t_{k}-t_{i}$| $\Delta\chi^2$ |
+|:--:|:--:|
+| -2.00 | 13.673054 |
+| -1.80 | 12.707762 |
+| -1.60 | 11.727356 |
+| -1.40 | 10.719591 |
+| -1.20 | 9.6804918 |
+| -1.00 | 8.5934652 |
+| -0.80 | 7.3939504 |
+| -0.60 | 5.9517293 |
+| -0.40 | 4.1744517 |
+| -0.20 | 2.0245224 |
+| 0.00 | 0.016028138 |
+| 0.20 | 3.5966813 |
+| 0.40 | 6.695437 |
+| 0.60 | 9.3204327 |
+| 0.80 | 11.848346 |
+| 1.00 | 12.439017 |
+| 1.20 | 13.400385 |
+| 1.40 | 14.341892 |
+| 1.60 | 15.264258 |
+| 1.80 | 16.168209 |
+| 2.00 | 32.136013 |
+
+
+|$t_{b}-t_{i}$|$\Delta\chi^2$|
+|:--:|:--:|
+| -2.00 | 13.754175 |
+| -1.80 | 12.788997 |
+| -1.60 | 11.810344 |
+| -1.40 | 10.804431 |
+| -1.20 | 9.7674712 |
+| -1.00 | 8.6838991 |
+| -0.80 | 7.4920352 |
+| -0.60 | 6.0621499 |
+| -0.40 | 4.298539 |
+| -0.20 | 2.1630934 |
+| 0.00 | 0.016297441 |
+| 0.20 | 1.2649169 |
+| 0.40 | 2.9384004 |
+| 0.60 | 4.4909632 |
+| 0.80 | 5.8159171 |
+| 1.00 | 6.9263632 |
+| 1.20 | 7.4882086 |
+| 1.40 | 7.8777982 |
+| 1.60 | 8.2424545 |
+| 1.80 | 8.5992219 |
+| 2.00 | 20.949634 |
+
+
 		
 | Time (sec) | $T_{K}$ Likelihood |     					                  
 |------------|-------------|
