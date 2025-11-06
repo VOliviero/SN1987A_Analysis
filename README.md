@@ -4,7 +4,7 @@ This repository collects all the relevant material related to the analysis of th
 
 Below is a brief description of the main scripts included:
 
-- PRLrelevantcomp.nb: Mathematica notebook used to construct the likelihood function of our model, which is employed to determine the absolute detection time of the first neutrino for each experiment.
+- PRLrelevantcomp.nb: Mathematica notebook used to used to derive the absolute time of arrival and detection of SN1987A neutrinos at each detector.
 
 - ElasticScattering.ipynb: Jupyter notebook containing all the elements required to produce Fig 3 of the paper.
 
